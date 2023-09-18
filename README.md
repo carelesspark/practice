@@ -1,6 +1,6 @@
 # practice
 
-## ReadMe 연습
+😀 ReadMe 연습
 
 😁 Fork 순서
 
@@ -28,4 +28,5 @@
 
 [깃허브 커밋](https://docs.github.com/ko/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
 
-![깃허브](https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EA%25B9%2583%25ED%2597%2588%25EB%25B8%258C&psig=AOvVaw1rQEGc9o91yQPzdWfvde7v&ust=1695113051229000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKCQs63is4EDFQAAAAAdAAAAABAD)
+![github](https://github.com/carelesspark/practice/assets/104550220/01390917-c377-4596-8b95-ec5673462ab5)
+
