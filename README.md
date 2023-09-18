@@ -24,7 +24,7 @@
 
 10. 상대방(원격저장소) Merge 작업을 실행
 
-11. git pull father // 원본저장소의 Merge이후 내 저장소와 동기화 진행
+11. git pull // 원본저장소의 Merge이후 내 저장소와 동기화 진행
 
 [깃허브 커밋](https://docs.github.com/ko/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
 
