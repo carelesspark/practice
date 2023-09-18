@@ -26,7 +26,7 @@
 
 11. git pull // 원본저장소의 Merge이후 내 저장소와 동기화 진행
 
-[깃허브 커밋](https://docs.github.com/ko/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
+[깃허브 커밋](https://docs.github.com/ko/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)
 
 ![깃허브](./image/github.png)
 
