@@ -28,5 +28,5 @@
 
 [깃허브 커밋](https://docs.github.com/ko/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
 
-![github](https://github.com/carelesspark/practice/assets/104550220/01390917-c377-4596-8b95-ec5673462ab5)
+![깃허브](./image/github.png)
 
